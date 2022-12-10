@@ -1,0 +1,24 @@
+.body_backgorund {
+  background-position: center;
+  background-size: cover;
+  background-color: cyan;
+}
+body
+{
+text-align: center;
+}
+h1
+{
+font-size:40px;
+color:blue;
+}
+h2
+{
+font-size:40px;
+color:red;
+}
+h3
+{
+font-size:40px;
+color:orange;
+}
